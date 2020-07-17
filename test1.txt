@@ -1,2 +1,3 @@
 hochi
 666
+add fun1
